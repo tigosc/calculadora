@@ -1,0 +1,29 @@
+# Build outputs
+/build/
+/ios/Pods/
+/android/.gradle/
+/android/app/build/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+
+# Dart tool
+.dart_tool/
+
+# Dependency directories
+.packages
+
+# Generated plugin registrant
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
